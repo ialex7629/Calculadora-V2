@@ -1,0 +1,59 @@
+.luffy {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: aquamarine;
+    width: 340px;
+    height: 500px;
+    border-radius: 30px;
+    
+}
+
+
+.luffy td button {
+    display:block;
+    width: 70px;
+    height: 70px;
+    font-size: 20px;   
+}
+
+#resul {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    
+}
+
+button{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-color: rgb(209, 245, 2);
+    color: black;
+    font-size: 50px;
+    border-radius: 20px;
+}
+
+h1 {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+    background-color: aquamarine;
+    width: 320px;
+    height: 50px;
+    border-radius: 20px;
+    
+}
+
+
